@@ -1,2 +1,5 @@
 # hello-world
-My first code
+
+My name is Javlonbek Khamzaev
+I'm interested in machine-learning
+I'm learning python
